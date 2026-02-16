@@ -3,7 +3,7 @@ class Contact:
     Contact class to represent a contact with a name and number.
     Attributes:
         name (str): The name of the contact.
-        number (str): The phone number of the contact.
+        number (str): The phone number of the contact
     '''
 
     def __init__(self, name, number):
